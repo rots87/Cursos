@@ -1,5 +1,5 @@
 /**
- * name
+ * Clase del clasico hola mundo
  */
 public class holamundo {
 
